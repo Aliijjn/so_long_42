@@ -14,4 +14,4 @@ so_long is a project in the 42 curriculum, where the goal is to make a 2d game. 
 ![image](https://github.com/user-attachments/assets/e5cfbdb7-3e6d-420e-a4f2-6a6627bbfdef)
 
 
-Made by Alijn Kuijer, 2023
+Made by Alijn Kuijer, 2024
