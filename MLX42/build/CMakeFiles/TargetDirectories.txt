@@ -1,0 +1,7 @@
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/mlx42.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/edit_cache.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/rebuild_cache.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/list_install_components.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/install.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/install/local.dir
+/goinfre/akuijer/so_long_clone/MLX42/build/CMakeFiles/install/strip.dir
