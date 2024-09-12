@@ -26,6 +26,8 @@ There are also a couple of rules a map has to follow to be considered valid:
 - There should be at least one collectable
 - The player should be able to reach all collectables and the exit
 
+The last requirement was quite tricky to verify, as I needed to check if the player is able to reach every coin and the exit. I used a backtracking algorithm for this, which will check all possible moves the player can make.  
+
 ### An example of an valid map file:
 ![image](https://github.com/user-attachments/assets/86aa6756-3f72-4a76-aa76-9be70ac9cd19)
 ### Which will display this level:
