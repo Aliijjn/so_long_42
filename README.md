@@ -27,21 +27,8 @@ There are also a couple of rules a map has to follow to be considered valid:
 - The player should be able to reach all collectables and the exit
 
 ### An example of an valid map file:
-`11111111111111`
-
-`1PC00000000C01`
-
-`10001111110001`
-
-`10000CC0000001`
-
-`111111111110C1`
-
-`100C00000C1001`
-
-`1E0001C0000001`
-
-`11111111111111`
-
+![image](https://github.com/user-attachments/assets/86aa6756-3f72-4a76-aa76-9be70ac9cd19)
+Which will display this level:
+![image](https://github.com/user-attachments/assets/811fde54-f718-4c42-80f0-89536ab1b5b5)
 
 Made by Alijn Kuijer, 2024
