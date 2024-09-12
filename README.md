@@ -28,12 +28,20 @@ There are also a couple of rules a map has to follow to be considered valid:
 
 ### An example of an valid map file:
 `11111111111111`
+
 `1PC00000000C01`
+
 `10001111110001`
+
 `10000CC0000001`
+
 `111111111110C1`
+
 `100C00000C1001`
+
 `1E0001C0000001`
+
 `11111111111111`
+
 
 Made by Alijn Kuijer, 2024
